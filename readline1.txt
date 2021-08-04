@@ -1,0 +1,7 @@
+Here we write command and to execute the command just press enter key and your command will be interpreted.
+For coding in Python you must know the basics of the console used in Python.
+
+The primary prompt of the python console is the three greater than symbols.
+Accepting Input from Console
+User enters the values in the Console and that value is then used in the program as it was required.
+To take input from the user we make use of a built-in function input().
